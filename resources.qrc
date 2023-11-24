@@ -1,5 +1,6 @@
 <RCC>
     <qresource prefix="/">
+        <file>Zheng_Edwin.png</file>
         <file>fe_logo.svg</file>
         <file>SwitcherEventIcons/Acceleration.svg</file>
         <file>SwitcherEventIcons/Autocross.svg</file>
