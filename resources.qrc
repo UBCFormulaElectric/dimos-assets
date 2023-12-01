@@ -7,5 +7,6 @@
         <file>SwitcherEventIcons/Brake.svg</file>
         <file>SwitcherEventIcons/Endurance.svg</file>
         <file>SwitcherEventIcons/Skidpad.svg</file>
+        <file>SwitcherEventIcons/LV.svg</file>
     </qresource>
 </RCC>
