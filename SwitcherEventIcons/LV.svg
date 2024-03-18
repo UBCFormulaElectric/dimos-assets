@@ -1,28 +1,10 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1080" height="1080" viewBox="0 0 1080 1080" xml:space="preserve">
-<desc>Created with Fabric.js 5.2.4</desc>
-<defs>
-</defs>
-<g transform="matrix(1 0 0 1 540 540)" id="1aecc590-4903-4819-ba65-7860488cbc93"  >
-<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-540" y="-540" rx="0" ry="0" width="1080" height="1080" />
-</g>
-<g transform="matrix(1 0 0 1 540 540)" id="ced422e2-bcef-4406-99b4-6ca3dde40e3f"  >
-</g>
-<g transform="matrix(1 0 0 1 540 540)"  >
-<g style="" vector-effect="non-scaling-stroke"   >
-		<g transform="matrix(33.33 0 0 33.33 0 -50)"  >
-<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-12.01, -10.5)" d="M 13.5 16.75 L 10.5 16.75 C 7.75 16.75 5.75 14.75 5.75 12 L 5.75 6.92 C 5.75 5.45 6.95001 4.25 8.42001 4.25 L 15.59 4.25 C 17.06 4.25 18.26 5.45 18.26 6.92 L 18.26 12 C 18.25 14.75 16.25 16.75 13.5 16.75 Z M 8.42001 5.75 C 7.78001 5.75 7.25 6.27 7.25 6.92 L 7.25 12 C 7.25 13.62 8.25 15.25 10.5 15.25 L 13.5 15.25 C 15.75 15.25 16.75 13.62 16.75 12 L 16.75 6.92 C 16.75 6.28 16.23 5.75 15.58 5.75 L 8.42001 5.75 Z" stroke-linecap="round" />
-</g>
-		<g transform="matrix(33.33 0 0 33.33 -83.5 -283.33)"  >
-<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-9.5, -3.5)" d="M 9.5 5.75 C 9.09 5.75 8.75 5.41 8.75 5 L 8.75 2 C 8.75 1.59 9.09 1.25 9.5 1.25 C 9.91 1.25 10.25 1.59 10.25 2 L 10.25 5 C 10.25 5.41 9.91 5.75 9.5 5.75 Z" stroke-linecap="round" />
-</g>
-		<g transform="matrix(33.33 0 0 33.33 83.17 -283.33)"  >
-<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-14.5, -3.5)" d="M 14.5 5.75 C 14.09 5.75 13.75 5.41 13.75 5 L 13.75 2 C 13.75 1.59 14.09 1.25 14.5 1.25 C 14.91 1.25 15.25 1.59 15.25 2 L 15.25 5 C 15.25 5.41 14.91 5.75 14.5 5.75 Z" stroke-linecap="round" />
-</g>
-		<g transform="matrix(33.33 0 0 33.33 -0.17 233.33)"  >
-<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-12, -19)" d="M 12 22.75 C 11.59 22.75 11.25 22.41 11.25 22 L 11.25 16 C 11.25 15.59 11.59 15.25 12 15.25 C 12.41 15.25 12.75 15.59 12.75 16 L 12.75 22 C 12.75 22.41 12.41 22.75 12 22.75 Z" stroke-linecap="round" />
-</g>
-</g>
-</g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 50 50" style="enable-background:new 0 0 50 50;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#FFFFFF;stroke-width:4.8476;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:7.3333;}
+</style>
+<path class="st0" d="M8.4,11.5h30.3c3,0,5.5,2.5,5.5,5.5v1.4c0,0.8,0.6,1.4,1.4,1.4s1.4,0.6,1.4,1.4v8.3c0,0.8-0.6,1.4-1.4,1.4
+	s-1.4,0.6-1.4,1.4v1.4c0,3-2.5,5.5-5.5,5.5H8.4c-3,0-5.5-2.5-5.5-5.5V17C2.9,13.9,5.4,11.5,8.4,11.5"/>
 </svg>
