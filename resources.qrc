@@ -2,7 +2,6 @@
     <qresource prefix="/">
         <file>fe_logo.svg</file>
         <file>SwitcherEventIcons/Acceleration.svg</file>
-        <file>SwitcherEventIcons/Autocross.svg</file>
         <file>SwitcherEventIcons/Brake.svg</file>
         <file>SwitcherEventIcons/Endurance.svg</file>
         <file>SwitcherEventIcons/Skidpad.svg</file>
