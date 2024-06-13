@@ -7,6 +7,7 @@
         <file>SwitcherEventIcons/Skidpad.svg</file>
         <file>SwitcherEventIcons/LV.svg</file>
         <file>SwitcherEventIcons/SoftwareDebug.svg</file>
+	<file>WarningIcons/BrakeWarning.svg</file>
         <file>battery.svg</file>
         <file>charge.svg</file>
         <file>sdloop_battery.svg</file>
